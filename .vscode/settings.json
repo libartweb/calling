@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b0e421e4-435f-42b7-a6fc-2fbef4c1d6a6/resourceGroups/callingtest/providers/Microsoft.Web/sites/fujitanicall",
+    "appService.deploySubpath": "."
+}
